@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Natig</h1>
 <h3 align="center">I'm a Frontend Junior Developer from Azerbaijan.</h3>
-
+<video src="https://youtu.be/sV2t3tW_JTQ?list=RDGMEMHDXYb1_DDSgDsobPsOFxpA"></video>
 
 ## 🙋‍♂️ About Me
 
