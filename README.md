@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/48/24/28/482428ebfe4d30b048997fd60ecd1108.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Natig</h1>
-<h3 align="center">I'm a Frontend Junior Developer from Azerbaijan.</h3>
+<h3 align="center">I'm a Junior Frontend  Developer from Azerbaijan.</h3>
 
 ## 🙋‍♂️ About Me
 
